@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "Sản phẩm 7 updated",
+      "price": "123131"
+    },
+    {
+      "name": "sản phẩm mới",
+      "price": "300",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "123456",
+      "price": "123"
+    },
+    {
+      "id": 9,
+      "name": "123",
+      "price": "1231244444",
+      "description": "444",
+      "categories": "444"
+    }
+  ]
+}
